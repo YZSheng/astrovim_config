@@ -3,6 +3,7 @@ return {
   -- Add plugins, the lazy syntax
   "morhetz/gruvbox",
   { "Olical/conjure", lazy = false },
+  { "dense-analysis/ale", lazy = false },
   { "gpanders/nvim-parinfer", lazy = false }-- "andweeb/presence.nvim",
   -- {
   --   "ray-x/lsp_signature.nvim",
